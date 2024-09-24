@@ -7,11 +7,15 @@ A customizable AI made in python with a user friendly GUI.
 
 ## Installation
 
-you'll need to install a model from ollama
+you'll need to install a model from [ollama](https://ollama.com/download/OllamaSetup.exe)
 
 ```bash
-  reffer to the official ollama github page
+  ollama run <Your Model>
 ```
+
+Then use this command to download any model.
+
+You can pick which model to use by viewing the official ollama github [page](https://github.com/ollama/ollama).
     
 ## Deployment
 
@@ -68,4 +72,9 @@ Start the AI
 - Customizable AI
 - Open Source
 - Cross platform
+
+
+## License
+
+[MIT](https://choosealicense.com/licenses/mit/)
 
