@@ -60,7 +60,7 @@ Start the AI
 [![GPLv3 License](https://img.shields.io/badge/License-GPL%20v3-yellow.svg)](https://opensource.org/licenses/)
 [![AGPL License](https://img.shields.io/badge/license-AGPL-blue.svg)](http://www.gnu.org/licenses/agpl-3.0)
 ![Static Badge](https://img.shields.io/badge/Certification--B)
-![Static Badge](https://img.shields.io/badge/Grade-B+-yellow)
+![Static Badge](https://img.shields.io/badge/Grade-B+-green)
 
 
 ## Authors
